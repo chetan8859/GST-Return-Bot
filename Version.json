@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.2",
-  "mandatory_below": "1.0.1",
-  "release_notes": "Updated Installer and Downloader and many new features.",
-  "download_url": "https://github.com/chetan8859/GST-Return-Bot/releases/download/1.0.2/GST_Bot_Setup_v1.0.2.exe",
+  "latest_version": "1.0.3",
+  "mandatory_below": "1.0.2",
+  "release_notes": "Updated security and the feature to unhide all sheets at once is added to different places.",
+  "download_url": "https://github.com/chetan8859/GST-Return-Bot/releases/download/1.0.3/GST_Bot_Setup_v1.0.3.exe",
   "special_notes": "NA"
 }
